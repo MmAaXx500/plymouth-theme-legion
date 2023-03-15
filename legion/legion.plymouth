@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Legion
+Description=Lenovo Legion theme
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/legion
+BackgroundStartColor=0x000000
+BackgroundEndColor=0x000000
