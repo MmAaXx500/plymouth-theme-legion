@@ -2,6 +2,8 @@
 
 Inspired by discord logo of Laptop Wiki (Legion Community)
 
+Available on AUR: [plymouth-theme-legion-git](https://aur.archlinux.org/packages/plymouth-theme-legion-git)
+
 ## Screenshots
 
 Bootup:
